@@ -1,0 +1,22 @@
+body
+{
+	background-color:#46423F;
+	display:block;
+}
+h1, h2
+{
+	
+	text-align:left;
+	font-family: "pf-videotext", sans-serif;
+	font-weight: 200;
+	color: #1D1B1A;
+	font-style: inherit;
+	margin-left:3%;
+}
+p, figure{
+	font-family:"helvetica-neue-world", sans-serif;
+}
+.Magazine img, p
+{
+	margin-left:3.5%;
+}
